@@ -15,11 +15,20 @@ Students at SFU do not have an exclusive access to the academic books that stude
 BookHub makes it easier: 
 BookHub provides SFU students with an exclusive platform for trading used SFU books. Each student has a database to keep track of all the books that he/she posted for selling and/or has added to the Wishlist. Students will be notified when the sought books become available. BookHub would reduce the time to find books by the exclusive services for SFU old books. Students are able to search for the books based on the name of the book as well as the course name.
 
+/**
+ TODO: Update docs since BookHub is now not only restricted to SFU Students but also available to other students
+*/
+
 Target Audience / Customers: 
-BookHub is a web application which is restricted for serving the purpose of SFU students. Only students who have a student account are  eligible to create an account with BookHub. Based on the initial response to the web application and student demands, BookHub can be expanded to include students from other universities. BookHub is not for non-student accesses because non-student customers could pollute the otherwise academic student portal. BookHub is limited only to academic books. There is a consideration to provide remote access to verified old book sellers so that the sellers can post SFU course books that is needed for several students.
+BookHub is a web application portal which is restricted for serving the purpose of SFU students. Only students who have a student account are  eligible to create an account with BookHub. Based on the initial response to the web application and student demands, BookHub can be expanded to include students from other universities. BookHub is not for non-student accesses because non-student customers could pollute the otherwise academic student portal. BookHub is limited only to academic books. There is a consideration to provide remote access to verified old book sellers so that the sellers can post SFU course books that is needed for several students.
 
 Scope of the Project:
-BookHub is incorporate features to serve the needs of SFU students. The sign up is for unverified users to verify users' account. Once verified each user is able to manage his/her profile through the sign in. BookHub has a search column used by users to search for the required books. The user is able to search a book by specifying various details such as the name of the book, ISBN of the book or the name of the course that requires that particular book. BookHub has a column where a user is able to post a book for sale along with all the relevant details such as pictures, the condition of the book, price etc. In case a book is not available in the BookHub, the student could add the book in the Wish List. If the book becomes available in future, all the students who have added that particular book in the Wish List are notified with an email. There is a consideration to allow remote access to verified old booksellers (only for SFU course books). The sellers can post books on the portal which serve the requirements of SFU students.
+BookHub is incorporate features to serve the needs of SFU students. The sign up is for unverified users to verify users' account. Once verified each user is able to manage his/her profile through the sign in. BookHub has a search column used by users to search for the required books. The user is able to search a book by specifying various details such as the name of the book, ISBN of the book or the name of the course that requires that particular book. BookHub is a column where a user is able to post a book for sale along with all the relevant details such as pictures, the condition of the book, price etc. In case a book is not available in the BookHub, the student could add the book in the Wish List. If the book becomes available in future, all the students who have added that particular book in the Wish List are notified with an email. There is a consideration to allow remote access to verified old booksellers (only for SFU course books). The sellers can post books on the portal which serve the requirements of SFU students.
+
+/**
+ Here also update the docs as BookHub is not exclusive to SFU Students but to any 
+ student with a valid email account. Also, these docs need a few language changes.
+ */
 
 Modified For Iteration 2:
 Competitive Analysis:
