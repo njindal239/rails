@@ -5,20 +5,9 @@
 BookHub: The right book will always keep you company
 GITHUB Link: https://github.com/njindal239/rails
 Heroku Link: https://bookhubapp276.herokuapp.com/
-Repository User Mapping: 
-"	Nipun Jindal: njindal239
-"	Rajat Mangal: rajatmangal
-"	Agamdeep Singh: agam2091995
-"	Eric Zhuang: xfijk
-
-Please use the following credentials for signing in to the account:
-
--     Admin Login: email: cmpt276@sfu.ca, password: "password".
--     Common User Login: njindal@sfu.ca, password: "password".
--     Make your own user account.
 
 Project Abstract:
-BookHub is a student portal for selling and buying old academic books pertaining to SFU courses. Users can sign up only if users have a valid account linked to SFU student portal.The portal will keep the track of all the books purchased and sold by the student. The student is able to view the status of all the books he/she has posted for selling.BookHub maintains a database for all users, available books, Wish Listed books, purchases and users associated with each sale and purchase. The database of BookHub is important reagards to security purposes. BookHub is intended to lessen the burden of keeping track of a wide variety of books.
+BookHub is a student portal for selling and buying old academic books, pertaining to SFU courses. Users are able to sign up only if users have a valid account linked to SFU student portal.The portal will keep the track of all the books purchased and sold by the student. The student is able to view the status of all the books he/she has posted for selling.BookHub maintains a database for all users, available books, Wish Listed books, purchases and users associated with each sale and purchase. The database of BookHub is important reagards to security purposes. BookHub is intended to lessen the burden of keeping track of a wide variety of books. Hence, it helps to reduce the stress on students to purchase all kinds of books.
 
 Current Approach to the Problem:
 Students at SFU do not have an exclusive access to the academic books that students want to trade. SFU students are difficult to keep track of the books which are posted for selling. The posts of books are unconspicuous in the Facebook pages with other social comments. Students need to contact the seller to know the book is available or not. There is no provision for a student to keep a track of all the books he/she has posted for selling. Locating a certain book requires scrolling through books that are not related to the student interest.
