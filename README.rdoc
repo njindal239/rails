@@ -48,19 +48,19 @@ In this Iteration, there is a new feature for adding the books to the book list.
 
 Modified for Iteration 3:
 Retrospective:
-Our team has four members and we tried to use the agile process for our second iteration. We broke up our work into small parts and different roles were given to team members. This time we divided the work into 10 tasks: -
-"	HTML Pages and Styling
-"	Bcrypt Encryption
-"	Create database and link it to users
-"	Authentication
-"	Visibility from UI
-"	Search Bar
-"	Profile Picture
-"	Wishlist
-"	Book's Image
-"	Stripe API
-Some of these tasks were big. So, 2 members collaborated to complete the task but the smaller tasks were completed individually. Nipun Jindal handled the Books Database and also linked it with the Users. He implemented the search bar for iteration 3. Also, he helped a lot in the Authentication. Agamdeep Singh did the whole Bcrypt Encryption and he also helped with the UI Authentication. Eric Zhuang helped a lot with the Authentication and Styling. For iteration 3, Eric Zhaung and Agamdeep implemented the wishlist. Rajat Mangal managed the HTML pages and styling part. Also, he helped with the UI visibility part.for iteration 3, Rajat Mangal added Profile picture and Book's image. He basically made a display for books with all details and its image .
-For Iteration 3 , we wanted to implement a payment API, and we choose Stripe API to do so .All the team members put in there efforts for this. 
+There are four members in the team and the agile process is used for the second iteration. The team broke up works into small parts and different roles were given to team members. The work are divided into 10 tasks:
+-	HTML Pages and Styling
+-	Bcrypt Encryption
+-	Create database and link it to users
+-	Authentication
+-	Visibility from UI
+-	Search Bar
+-	Profile Picture
+-	Wishlist
+-	Book's Image
+-	Stripe API
+Because some of these tasks were big, 2 members are collaborated to complete the task. The smaller tasks were completed individually. Nipun Jindal handled the Books Database and linked it with the Users. He implemented the search bar for iteration 3. Also, he helped in Authentication. Agamdeep Singh did the Bcrypt Encryptionand helped with the UI Authentication. Eric Zhuang helped with the Authentication and Styling. For iteration 3, Eric Zhaung and Agamdeep implemented the wishlist. Rajat Mangal managed the HTML pages, styling part, and UI visibility.for iteration 3, Rajat Mangal added Profile picture and Book's image. Rajat Mangal made a display for books with all details and its image.
+For Iteration 3, the group wanted to implement a payment API, and the Stripe API is choosen to do. All the team members put in their efforts for BookHub. 
 
 "	For iteration 2, there was a lot of stuff to do. The planning for iteration 2 was done well in time and as a result, the whole work was completed before the expected time. It took us almost 5 days to complete the whole thing. But the constant support of all the team members helped a lot to complete the stuff planned for Iteration 2. This time the collaboration was really good as we learned a lot form our mistakes from iteration 1. There were a bunch of technical errors this time but we were able to figure out most of them and we learned a lot from that too. This time we tried to use GitHub more but we are still learning. We divided the tasks on GitHub but most of the commits were made from the group leader account. But each and every group member did a good job in this Iteration. There is still space for lots of improvements in utilizing the actual benefits of GitHub. Though we were able to assign issues to GitHub, since we were working together most of the time, we still committed only from one account. This is the major thing that we would like to improve from the next iteration onwards. Hence, we will start doing commits from all the accounts from the next iteration. Overall, although the work was split up between team members, every person was involved in almost all phases of design and implementation. It was a complete team effort and the team jelled up well.
 "	For iteration 3, 
