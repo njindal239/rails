@@ -63,9 +63,9 @@ Because some of these tasks were big, 2 members are collaborated to complete the
 For Iteration 3, the group wanted to implement a payment API, and the Stripe API is choosen to do. All the team members put in their efforts for BookHub. 
 
 For iteration 2, the planning was done well in time and as a result, the whole work was completed before the expected time. Iteration 2 took group members 5 days to complete the goal. The constant support of all the team members helped to complete the stuff planned for Iteration 2. This time the collaboration was good as each team members learned from the mistakes from iteration 1. There were technical errors this time but the team was able to fix errors. This time the group tried to use GitHub more but the group is learning. The group divided the tasks on GitHub but the commits were made from the group leader account. Each group member did a good job in this Iteration. There is still space for improvements in utilizing the actual benefits of GitHub. Though the group was able to assign issues to GitHub, since the group was working together most of the time, the group committed only from one account. The committing style is the major thing that the group wants to improve from the next iteration onwards. Hence, the group will start doing commits from all the accounts from the next iteration. Overall, the work was split up between team members, every person was involved in all phases of design and implementation. It was a complete team effort and the team jelled up well.
-"	For iteration 3, 
--	Things that went well: All the issues assigned to Team members were successfully completed and this time, Github was used to distribute work and everyone made full use of github's functionality. 
--	Things that didn't went well: Although we implemented Stripe API but we were not able to make complete use of its functionality and that we will try to improve.
--	For future: In future, we are planning to add more security to the site and we are also thinking to use more APIs. For instance, Facebook API. 
+For iteration 3, 
+-	Things that went well: All the issues assigned to team members were successfully completed. GitHub was used to distribute work and group members made full use of GitHub's functionality. 
+-	Things that didn't went well: Although the group implemented Stripe API but the group were not able to make complete use of its functionality which the group will improve.
+-	For future: The group is planning to add more security to BookHub and the group are planning to use more APIs. For instance, Facebook API. 
 
 
