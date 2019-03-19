@@ -44,7 +44,7 @@ There are two types of users in BookHub: admin and normal user
 
 Workflow Steps:
 
-In this Iteration, we have added a new feature that a user can add the books to the book list. After logging in, user will see a dropdown menu on the top right of the screen. User can click on that and there will be option "Add a new book". User can just click on the option and can add a new book. Also, he can see all the books that are available using the "List Books" option. User will have full access to modify the details of the books that he/she has added. But he/she can only modify or delete the books that he/she has added. This can be achieved through listing all the books and then clicking on the "edit book" or "delete book" buttons corresponding to the books that have been added by that specific user. Also, user can make changes is his/her profile by clicking on the "Profile" option in the menu. 
+In this Iteration, there is a new feature for adding the books to the book list. After logging in, the user will see a dropdown menu on the top right of the screen. The user can click on the menu and there will be an option "Add a new book". The user is able to click on the option and add a new book. The user is able to see all the books that are available using the "List Books" option. The user has full access to modify the details of the books that he/she has added. The user is restricted to modify or delete the books that he/she has added. The modification feature is achieved by providing the "edit book" or "delete book" buttons corresponding to the books that have been added by that specific user. The user is able to make changes in his/her profile by clicking on the "Profile" option on the menu. 
 
 Modified for Iteration 3:
 Retrospective:
